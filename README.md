@@ -22,7 +22,8 @@ Here are some ideas to get you started:
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
-<a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/-shreya-prasad/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
+<a href="https://www.linkedin.com/in/shivaniwalecha/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 👩‍🎓 Hey! I'm Shivani, a software engineer at [**JPMorgan Chase&Co.**](https://github.com/jpmorganchase) working out of Pune, India. My preferred pronouns are **she/her**.
 
 
